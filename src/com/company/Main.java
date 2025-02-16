@@ -34,6 +34,7 @@ public class Main {
         System.out.println();
     }
 
+
     // Method to perform arithmetic calculations
     public static void performArithmeticCalculations() {
         int x = 15;
